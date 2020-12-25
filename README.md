@@ -1,7 +1,7 @@
 # FirebaseChat
 This is a chat application using firebase database for transfer information and Tkinter for GUI.
 
-You have to add chat_key.json file(from the firebase project) and the sound.mp3(choose what you want.
+You have to add chat_key.json file(from the firebase project) and the sound.mp3(choose what you want.)
 
 You have to add chat_key.json file in the Launcher.py like dictionary.
 
